@@ -1,0 +1,13 @@
+erp_txn_id,transaction_date,document_type,customer_vendor,invoice_no,reference_no,debit,credit,status
+E001,2026-05-01,Customer Receipt,ACME LTD,INV1001,INV1001,0,125000,Posted
+E002,2026-05-02,Vendor Payment,INFOSYS,AP789,PAY789,85000,0,Posted
+E003,2026-05-03,Customer Receipt,BETA PVT,INV1002,INV1002,0,76000,Posted
+E004,2026-05-05,Customer Receipt,DELTA,INV1003,INV1003,0,98000,Posted
+E005,2026-05-07,Vendor Payment,TCS,AP556,AP556,45000,0,Posted
+E006,2026-05-09,Payroll Payment,Employees,MAYPAY,PAYROLL,120000,0,Posted
+E007,2026-05-10,Customer Receipt,OMEGA,INV1004,INV1004,0,32000,Posted
+E008,2026-05-12,Vendor Payment,WIPRO,AP557,AP557,62000,0,Posted
+E009,2026-05-14,Customer Receipt,GAMMA,INV1005,INV1005,0,110000,Posted
+E010,2026-05-15,Customer Receipt,LAMBDA,INV1006,INV1006,0,54000,Posted
+E011,2026-05-16,Vendor Payment,ZOHO,AP558,AP558,25000,0,Posted
+E012,2026-05-17,Customer Receipt,NOVA,INV1007,INV1007,0,70000,Posted
