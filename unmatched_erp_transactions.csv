@@ -1,3 +1,0 @@
-erp_txn_id,transaction_date,document_type,customer_vendor,invoice_no,reference_no,debit,credit,status,net_amount,match_status,exception_reason
-E011,2026-05-16,Vendor Payment,ZOHO,AP558,AP558,25000,0,Posted,-25000.0,ERP_NOT_IN_BANK,ERP transaction not found in bank statement
-E012,2026-05-17,Customer Receipt,NOVA,INV1007,INV1007,0,70000,Posted,70000.0,ERP_NOT_IN_BANK,ERP transaction not found in bank statement
