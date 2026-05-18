@@ -1,0 +1,8 @@
+metric,count
+Bank transactions,15
+ERP transactions,12
+Matched transactions,12
+Timing differences,0
+Bank not in ERP,3
+ERP not in bank,2
+Duplicate bank groups,2

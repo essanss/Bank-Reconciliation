@@ -1,0 +1,4 @@
+bank_txn_id,transaction_date,description,reference_no,debit,credit,bank_account,source_file,net_amount,match_status,exception_reason
+B004,2026-05-04,BANK CHARGES MAY,BANKCHG,650,0,HDFC-001,bank_statement_may.csv,-650.0,BANK_NOT_IN_ERP,Bank transaction not found in ERP
+B008,2026-05-08,UPI CUSTOMER RECEIPT UNKNOWN,UPI889,0,15000,HDFC-001,bank_statement_may.csv,15000.0,BANK_NOT_IN_ERP,Bank transaction not found in ERP
+B012,2026-05-13,REVERSAL BANK ERROR,REV001,0,650,HDFC-001,bank_statement_may.csv,650.0,BANK_NOT_IN_ERP,Bank transaction not found in ERP
